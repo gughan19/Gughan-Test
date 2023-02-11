@@ -1,2 +1,6 @@
 change 1
+<<<<<<< HEAD
 cheese burger colour blue
+=======
+cheese burger colour red
+>>>>>>> 3056ce8cc78dc42f8e784f3117439a43b66db026
